@@ -9,3 +9,7 @@ O
 contracts/collective-token.clar,0/7/078e6da3d6288c808746ef3006ff4718e567d404
 N
 tests/collective-token.test.ts,a/e/aeb0286f4487937dc37f55eec594dc81a9abd8fb
+K
+contracts/data-storage.clar,f/3/f3bc9230856c3884086032a9d33994af84d526e2
+J
+tests/data-storage.test.ts,2/e/2e08f1f464eac62cbf360b62e34fc97730adf9b6
