@@ -17,3 +17,7 @@ I
 contracts/governance.clar,3/e/3e11ff9ecf5cff40241c69670308e29f84df23b7
 H
 tests/governance.test.ts,c/e/ce14344de9ea9b63c3c2c3228c80d12874bc7dff
+U
+%contracts/research-collaboration.clar,f/e/febf14a062ba31cecbd190c77ae15331c2237298
+T
+$tests/research-collaboration.test.ts,e/9/e9431069d8f38c51c4f689c85362331bf2363a55
