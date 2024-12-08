@@ -9,6 +9,11 @@ requirements = []
 path = 'contracts/ai-analysis.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.collective-token]
+path = 'contracts/collective-token.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
