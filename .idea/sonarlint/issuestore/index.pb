@@ -13,3 +13,7 @@ K
 contracts/data-storage.clar,f/3/f3bc9230856c3884086032a9d33994af84d526e2
 J
 tests/data-storage.test.ts,2/e/2e08f1f464eac62cbf360b62e34fc97730adf9b6
+I
+contracts/governance.clar,3/e/3e11ff9ecf5cff40241c69670308e29f84df23b7
+H
+tests/governance.test.ts,c/e/ce14344de9ea9b63c3c2c3228c80d12874bc7dff
